@@ -1,4 +1,4 @@
-```js
+```JavaScript
 /*!  
 	
 	原文地址：https://github.com/chokcoco/jQuery-
